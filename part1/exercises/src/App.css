@@ -40,4 +40,13 @@
 .similarComponents {
   display:flex;
 justify-content:space-between;
+<div className="App">
+   <ChoresList />
+   <div className="similarComponents">
+     <MovieList />
+     <BookList />
+     <HobbyLinks />
+   </div>
+ </div>
+
 }
