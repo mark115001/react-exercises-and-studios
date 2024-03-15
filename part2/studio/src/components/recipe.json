@@ -1,17 +1,22 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
+     "name": "Beef Lo Mein",
      "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "description": "This Beef Lo Mein has savory noodles tossed in a delicious sauce with juicy beef and fresh vegetables. This is easy to make and even better than takeout!",
+     "website": "https://thecozycook.com/beef-lo-mein/",
+     "recipeImage": "https://thecozycook.com/wp-content/uploads/2024/02/Beef-Lo-Mein-1.jpg",
+     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook-1-700x1114.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "beef broth",
+       "chicken broth",
+       "soy sauce",
+       "brown sugar",
+       "cornstarch", 
+       "garlic cloves", 
+       "hot sauce", 
+       "toasted sesame oil", 
+       "ground ginger", 
+       "red peper flakes"
      ]
    }
  ]
