@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "equipment": "Brunswick Twist bowling ball-1",
+      "image": "https://m.media-amazon.com/images/I/71md14dk4xL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "locaton": "Olatha Lanes East",
+      "alt" : "Olathe Lanes West"
+    },
+    {
+      "equipment": "Pyramid Clear Skull Bowling Ball",
+      "image": "https://m.media-amazon.com/images/I/61nhd+AMczL._AC_SY300_SX300_.jpg",
+      "locaton": "Mission Bowl in Olathe",
+      "alt" : "Olathe Lanes West"
+    },
+    {
+      "equipment": "Champion Sports Plastic Bowling Ball",
+      "image": "https://m.media-amazon.com/images/I/61fJEvEAvoL._AC_UL320_.jpg",
+      "locaton": "Aarons Family Fun Center",
+      "alt" : "Olathe Lanes West"
+    },
+    {
+      "equipment": "Storm Blowing Phaze II Bowling Ball",
+      "image": "https://m.media-amazon.com/images/I/71tBu0YIfDL._AC_UL320_.jpg",
+      "locaton": "Sterling Bowl",
+      "alt" : "Olathe Lanes West"
+    },
+    {
+      "equipment": "Brunswick Tzone Bowling Ball",
+      "image": "https://m.media-amazon.com/images/I/61YJ9iClzfL._AC_UL320_.jpg",
+      "locaton": "Bolero Bowl",
+      "alt" : "Olathe Lanes West"
+    }
+  ]
+}
