@@ -19,9 +19,9 @@ export default function BoardAssignment () {
       <label>Save to Board: </label>
       <select value={boardName} onChange={handleChange}>
          <option value="no boards yet">select board</option>
-         <option value="board1">breakfast</option>
-         <option value="board2">lunch</option>
-         <option value="board3">dinner</option>
+         <option value="breakfast board">breakfast</option>
+         <option value="lunch board">lunch</option>
+         <option value="dinner board">dinner</option>
       </select>
 
       <p>Saved to {boardName}!</p>

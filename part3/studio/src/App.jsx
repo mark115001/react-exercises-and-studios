@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>React 3 - Studio</h1>
+      {/* <h1>React 3 - Studio</h1> */}
       <div className="App">
         <RecipeDisplay />
         <div className="recipePhotoBlock">

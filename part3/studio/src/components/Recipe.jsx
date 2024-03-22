@@ -59,8 +59,8 @@ const RecipeDescription = () => {
    return (
       <div> 
          <div>
-            <h1></h1>
-            <p></p>
+            <h1>REACT Part3 - Studio - PANCAKES</h1>
+            <p>Made from Scratch Pancake Recipe</p>
          </div>
          <div className="recipePhotoBlock">
             <RecipeIngredients />
